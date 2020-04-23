@@ -1,4 +1,4 @@
-<filesMatch "\counter.png">
+<filesMatch "\.(html|htm|js|css|jpg|png|jpeg|gif)$">
 FileETag None
 <ifModule mod_headers.c>
 Header unset ETag
