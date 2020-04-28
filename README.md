@@ -2,7 +2,7 @@
 
 **HyperCounterImage**
 
-<img src="https://poa5qzspd7.execute-api.us-east-1.amazonaws.com/live/hypercounterimage/a1c8c2fe90a54318b003dec5bcd6a24b/counter.png" />
+<img src="https://poa5qzspd7.execute-api.us-east-1.amazonaws.com/live/hypercounterimage/4ab097bed32444c49f750f9931056b4d/counter.png" />
 
 !(image)[https://mqbqbqd88i.execute-api.us-east-1.amazonaws.com/HyperCounterImage/hitcounter.png]
 
